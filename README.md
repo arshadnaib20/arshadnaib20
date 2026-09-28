@@ -1,7 +1,11 @@
 # Hi, I'm Arshad Naib
 
 <p align="center">
-  <img src="avatar-suit.png" width="160" style="border-radius:50%;border:3px solid #C9A961;" alt="Arshad Naib">
+  <img src="banner.png" width="100%" alt="Arshad Naib">
+</p>
+
+<p align="center">
+  <img src="avatar-suit.png" width="120" style="border-radius:50%;border:3px solid #C9A961;" alt="Arshad Naib">
 </p>
 
 **Computer Science Student · Full-Stack Developer · China Sourcing Agent**
