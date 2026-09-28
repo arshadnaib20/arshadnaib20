@@ -1,10 +1,10 @@
-<!--
-  Hi, I'm Arshad 👋
--->
+# Hi, I'm Arshad Naib
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C9A961&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arshad+Naib;Computer+Science+Student;Full-Stack+Developer;China+Sourcing+Agent;Trilingual:+EN+%7C+中文+%7C+বাংলা" alt="Typing SVG">
-</p>
+**Computer Science Student · Full-Stack Developer · China Sourcing Agent**
+
+```
+Bengali (native) · English (fluent) · Chinese (working)
+```
 
 <p align="center">
   <a href="https://arshadnaib20.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1a14?style=for-the-badge&logo=googlechrome&logoColor=C9A961" alt="Portfolio"></a>
@@ -15,19 +15,19 @@
 
 ---
 
-### 🎓 About me
+### About me
 
 Final-year **Computer Science** student at **Xuzhou University of Technology**, originally from Bangladesh. I build full-stack web applications and run a China-to-Bangladesh sourcing business on the side.
 
-- 🌍 Based in China, working with factories across Yiwu / Guangzhou / Shenzhen
-- 💬 Trilingual: Bengali (native), English (fluent), Chinese (working)
-- 🔭 Currently building: [Zara Sourcing](https://arshadnaib20.github.io/sourcing/) — a China sourcing agent for Bangladeshi buyers
-- 🌱 Exploring: AI/ML, secure software, distributed systems
-- 📫 Reach me: **arshadnaib20@gmail.com**
+- Based in China, working with factories across Yiwu / Guangzhou / Shenzhen
+- Trilingual: Bengali (native), English (fluent), Chinese (working)
+- Currently building: [Zara Sourcing](https://arshadnaib20.github.io/sourcing/) — a China sourcing agent for Bangladeshi buyers
+- Exploring: AI/ML, secure software, distributed systems
+- Reach me: **arshadnaib20@gmail.com**
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,15 +42,7 @@ Final-year **Computer Science** student at **Xuzhou University of Technology**, 
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arshadnaib20&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</p>
-
----
-
-### 🚀 Featured projects
+### Featured projects
 
 | Project | Description | Live |
 |---------|-------------|------|
@@ -62,15 +54,11 @@ Final-year **Computer Science** student at **Xuzhou University of Technology**, 
 
 ---
 
-### 🌐 Find me online
+### Find me online
 
 <p align="center">
   <a href="https://arshadnaib20.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/abu-arshad-naib-402b0020a">LinkedIn</a> ·
   <a href="https://wa.me/8801727067920">WhatsApp</a> ·
   <a href="mailto:arshadnaib20@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshadnaib20&style=flat-square&color=C9A961" />
 </p>
