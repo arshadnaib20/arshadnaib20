@@ -45,22 +45,7 @@ Final-year **Computer Science** student at **Xuzhou University of Technology**, 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arshadnaib20&show_icons=true&theme=radical&bg_color=0e0e0c&title_color=C9A961&icon_color=C9A960&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadnaib20&layout=compact&theme=radical&bg_color=0e0e0c&title_color=C9A961&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadnaib20&theme=radical&background=0e0e0c&ring=C9A961&currStreakLabel=C9A961&sideLabels=C9A961&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arshadnaib20&theme=onedark&no-frame=true&row=1" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arshadnaib20&show_icons=true&theme=default&hide_border=true&count_private=true" />
 </p>
 
 ---
