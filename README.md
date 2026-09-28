@@ -1,53 +1,91 @@
-# Hi, I'm Arshad Naib
+<!--
+  Hi, I'm Arshad 👋
+-->
 
-Final-year Computer Science student at **Xuzhou University of Technology**, originally from Bangladesh. I build for the web — Python and Java on the backend, HTML/CSS/JavaScript on the frontend — and I'm looking for my first role as an entry-level web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C9A961&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arshad+Naib;Computer+Science+Student;Full-Stack+Developer;China+Sourcing+Agent;Trilingual:+EN+%7C+中文+%7C+বাংলা" alt="Typing SVG">
+</p>
 
-```
-Bengali (native) · English (fluent) · Chinese (working)
-```
+<p align="center">
+  <a href="https://arshadnaib20.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1a14?style=for-the-badge&logo=googlechrome&logoColor=C9A961" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abu-arshad-naib-402b0020a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arshadnaib20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/8801727067920"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
 ---
 
-## What I work with
+### 🎓 About me
+
+Final-year **Computer Science** student at **Xuzhou University of Technology**, originally from Bangladesh. I build full-stack web applications and run a China-to-Bangladesh sourcing business on the side.
+
+- 🌍 Based in China, working with factories across Yiwu / Guangzhou / Shenzhen
+- 💬 Trilingual: Bengali (native), English (fluent), Chinese (working)
+- 🔭 Currently building: [Zara Sourcing](https://arshadnaib20.github.io/sourcing/) — a China sourcing agent for Bangladeshi buyers
+- 🌱 Exploring: AI/ML, secure software, distributed systems
+- 📫 Reach me: **arshadnaib20@gmail.com**
+
+---
+
+### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Featured projects
+### 📊 GitHub stats
 
-| Project | Description | Live |
-|---------|-------------|------|
-| **[TalentBoard](https://github.com/arshadnaib20/talentboard)** | Full-stack job board — Java Spring Boot, H2 database, login/register, apply flow, AI job matcher | [demo](https://arshadnaib20.github.io/jobs/) |
-| **[BookMySeat](https://github.com/arshadnaib20/bookmyseat)** | Cinema ticket booking — multiple halls, seat selection, booking codes | [demo](https://arshadnaib20.github.io/cinema/) |
-| **[Notely](https://github.com/arshadnaib20/notely)** | Minimal notes app — live Markdown preview, search, tags, dark mode | [demo](https://arshadnaib20.github.io/notely/) |
-| **[Trilingual Flashcards](https://github.com/arshadnaib20/trilingual-flashcards)** | Bengali / English / Chinese vocabulary trainer, Flask + SQLite | [demo](https://arshadnaib20.pythonanywhere.com/) |
-| **[Resume Studio](https://arshadnaib20.github.io/resume/)** | CV builder with AI bullet enhancer, live preview, PDF export | [demo](https://arshadnaib20.github.io/resume/) |
-| **[AskAI](https://arshadnaib20.github.io/ask/)** | Chat-style CS code assistant — generates runnable Python, Flask, HTML, SQL | [demo](https://arshadnaib20.github.io/ask/) |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arshadnaib20&show_icons=true&theme=radical&bg_color=0e0e0c&title_color=C9A961&icon_color=C9A960&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadnaib20&layout=compact&theme=radical&bg_color=0e0e0c&title_color=C9A961&hide_border=true" />
+</p>
 
----
-
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arshadnaib20&show_icons=true&hide_border=true&title_color=2F6B5B&icon_color=2F6B5B&text_color=21313C&bg_color=F7F5F0" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadnaib20&layout=compact&hide_border=true&title_color=2F6B5B&text_color=21313C&bg_color=F7F5F0" alt="languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadnaib20&theme=radical&background=0e0e0c&ring=C9A961&currStreakLabel=C9A961&sideLabels=C9A961&hide_border=true" />
 </p>
 
 ---
 
-## Contact
+### 🏆 Trophies
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshadnaib20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-arshad-naib-402b0020a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F6B5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arshadnaib20.github.io)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arshadnaib20&theme=onedark&no-frame=true&row=1" />
+  </a>
+</p>
 
-Open to internships and entry-level web development roles.
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| **[Zara Sourcing](https://arshadnaib20.github.io/sourcing/)** | China sourcing agent site for Bangladeshi buyers — product catalog, cart, WhatsApp ordering, AI assistant | [live](https://arshadnaib20.github.io/sourcing/) |
+| **[TalentBoard](https://github.com/arshadnaib20/talentboard)** | Full-stack job board — Java Spring Boot, H2, login/register, apply flow | [demo](https://arshadnaib20.github.io/jobs/) |
+| **[BookMySeat](https://github.com/arshadnaib20/bookmyseat)** | Cinema ticket booking — multiple halls, seat selection, booking codes | [demo](https://arshadnaib20.github.io/cinema/) |
+| **[Notely](https://github.com/arshadnaib20/notely)** | Minimal notes app — Markdown preview, search, tags, dark mode | [demo](https://arshadnaib20.github.io/notely/) |
+| **[Trilingual Flashcards](https://arshadnaib20.github.io/flashcard/)** | Flashcards for learning Bengali / English / Chinese | [demo](https://arshadnaib20.github.io/flashcard/) |
+
+---
+
+### 🌐 Find me online
+
+<p align="center">
+  <a href="https://arshadnaib20.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abu-arshad-naib-402b0020a">LinkedIn</a> ·
+  <a href="https://wa.me/8801727067920">WhatsApp</a> ·
+  <a href="mailto:arshadnaib20@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arshadnaib20&style=flat-square&color=C9A961" />
+</p>
