@@ -15,6 +15,7 @@ Bengali (native) · English (fluent) · Chinese (working)
 ```
 
 <p align="center">
+  <a href="https://arshadnaib20.github.io/arshad-portfolio/"><img src="https://img.shields.io/badge/Web%20Design%20Services-0050FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Design Services"></a>
   <a href="https://arshadnaib20.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1a14?style=for-the-badge&logo=googlechrome&logoColor=C9A961" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/abu-arshad-naib-402b0020a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:arshadnaib20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -54,6 +55,7 @@ Final-year **Computer Science** student at **Xuzhou University of Technology**, 
 
 | Project | Description | Live |
 |---------|-------------|------|
+| **[Arshad Portfolio](https://arshadnaib20.github.io/arshad-portfolio/)** | AI-assisted web design for local shops — one-page websites + monthly social content | [live](https://arshadnaib20.github.io/arshad-portfolio/) |
 | **[Zara Sourcing](https://arshadnaib20.github.io/sourcing/)** | China sourcing agent site for Bangladeshi buyers — product catalog, cart, WhatsApp ordering, AI assistant | [live](https://arshadnaib20.github.io/sourcing/) |
 | **[TalentBoard](https://github.com/arshadnaib20/talentboard)** | Full-stack job board — Java Spring Boot, H2, login/register, apply flow | [demo](https://arshadnaib20.github.io/jobs/) |
 | **[BookMySeat](https://github.com/arshadnaib20/bookmyseat)** | Cinema ticket booking — multiple halls, seat selection, booking codes | [demo](https://arshadnaib20.github.io/cinema/) |
@@ -65,6 +67,7 @@ Final-year **Computer Science** student at **Xuzhou University of Technology**, 
 ### Find me online
 
 <p align="center">
+  <a href="https://arshadnaib20.github.io/arshad-portfolio/">Services</a> ·
   <a href="https://arshadnaib20.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/abu-arshad-naib-402b0020a">LinkedIn</a> ·
   <a href="https://wa.me/8801727067920">WhatsApp</a> ·
